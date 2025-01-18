@@ -1,0 +1,1 @@
+This repository demonstrates a common issue encountered when using the `Dimensions` API in React Native on Android. The problem arises from the asynchronous nature of the API and potential timing inconsistencies during initial app rendering.  This example shows how to reliably get screen dimensions, avoiding the `undefined` values and ensuring accurate layout.
